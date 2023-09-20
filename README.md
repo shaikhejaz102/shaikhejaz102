@@ -1,9 +1,9 @@
-![MaterHead](https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/40177c167807665.642f1bbaad9fe.gif)
-<!--https://mir-s3-cdn-cf.behance.net/project_modules/fs/152a3665798465.5b68b2f9e02e7.gif-->
+![MaterHead](https://mir-s3-cdn-cf.behance.net/project_modules/fs/152a3665798465.5b68b2f9e02e7.gif)
+<!--https://mir-s3-cdn-cf.behance.net/project_modules/1400_opt_1/40177c167807665.642f1bbaad9fe.gif-->
 <!--https://cdn.dribbble.com/users/1292677/screenshots/6139167/avento.gif-->
 <h1 align="center">Hi 👋, I'm Shaikh Ejaz</h1>
 <h3 align="center">A passionate frontend developer from India</h3>
-<img align="right" alt="Coding" width="600" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/56bc2e65798465.5dae09b32b006.gif">
+<img align="right" alt="Coding" width="700" src="https://mir-s3-cdn-cf.behance.net/project_modules/fs/56bc2e65798465.5dae09b32b006.gif">
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=shaikhejaz102&label=Profile%20views&color=0e75b6&style=flat" alt="shaikhejaz102" /> </p>
 
