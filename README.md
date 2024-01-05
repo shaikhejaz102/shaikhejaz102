@@ -9,7 +9,7 @@
 
 <p align="left"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-- 🔭 I’m currently working on **Fluencer Digital Venture**
+- 🔭 I’m currently working on **CNK Global Ecommerce PVT LTD**
 
 - 🌱 I’m currently learning **Express Js, MongoDB, TypeScript and Next Js,and so on.**
 
